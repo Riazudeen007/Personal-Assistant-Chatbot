@@ -241,7 +241,7 @@ def isContain(txt, lst):
 			return True
 	return False
 
-GEMINI_API_KEY = "AIzaSyAlRKhsQg4TT8PHsn-Vi5pS_wNfBgFHZqo"
+GEMINI_API_KEY = "YOUR GEMINI API KEY HERE"
 genai.configure(api_key=GEMINI_API_KEY)
 
 
