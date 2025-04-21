@@ -5,4 +5,4 @@ How to run the project??
 2. Install every package using command, (pip install packagename)
 3. Now just open the GUIASSISTANT.py file to run
 
-note : type your mail id and password in .env file before running the python file.
+note : save your mail id and password in .env file before running the python file.
